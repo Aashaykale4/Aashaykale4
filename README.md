@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aashay Kale</h1>
 <h3 align="center">A passionate Data Science student from India</h3>
-
+<img align="right" alt="coding" width=300 src="">
 - 🔭 I’m currently working on [Mental-Health-Surveillance-Assesment-Tracking-Solutions](https://github.com/Aashaykale4/Mental-Health-Surveillance-Assesment-Tracking-Solutions)
 
 - 🌱 I’m currently learning **Machine Learning**
