@@ -1,11 +1,12 @@
-<img align="right" alt="coding"  src="https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif">
+
 <h1 align="center">Hi 👋, I'm Aashay Kale</h1>
 <h3 align="center">A passionate Data Science student from India</h3>
 <img align="right" alt="coding" width=400 src="https://cdn.shopify.com/s/files/1/0578/3696/1997/t/9/assets/lofiboy.gif?v=103461765217895835051680702279">
 
-- 🔭 I’m currently working on [Mental-Health-Surveillance-Assesment-Tracking-Solutions](https://github.com/Aashaykale4/Mental-Health-Surveillance-Assesment-Tracking-Solutions)
-
-- 🌱 I’m currently learning **Machine Learning**
+* 🔭 I’m currently working on [Mental-Health-Surveillance-Assesment-Tracking-Solutions](https://github.com/Aashaykale4/Mental-Health-Surveillance-Assesment-Tracking-Solutions)
+* 👯 Committed to continuous learning and experimentation with data to drive informed decision-making.
+* 🤝 Eager to contribute to open-source projects and collaborate with fellow data enthusiasts.
+* 🌱 I’m currently learning **Machine Learning**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
