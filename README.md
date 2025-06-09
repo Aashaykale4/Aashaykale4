@@ -6,7 +6,7 @@
 * 🔭 I’m currently working on [Deeplearning Projects]
 * 👯 Committed to continuous learning and experimentation with data to drive informed decision-making.
 * 🤝 Eager to contribute to open-source projects and collaborate with fellow data enthusiasts.
-* 🌱 I’m currently learning **Machine Learning**
+* 🌱 I’m currently learning **ML-OPS**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
